@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+spacy
+scikit-learn
+sentence-transformers
+transformers
+torch
